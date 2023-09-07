@@ -1,2 +1,2 @@
 # Umars-repository
-John Hopkins university, Html course student,
+John Hopkins university, Html course student
